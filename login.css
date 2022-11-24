@@ -1,0 +1,21 @@
+body {
+    background: radial-gradient(801px at 4.2% 16.4%, rgba(104, 211, 218, 0.99) 0%, rgb(184, 77, 235) 88.8%);;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container {
+    
+    
+    position: relative;
+    margin-top: 200px;
+    height: auto;
+    width:100px
+    
+}
+
+.login-view{
+    height: 300px;
+    width: 500px;
+    background: #fffff;
+}

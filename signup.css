@@ -1,0 +1,67 @@
+body{
+    
+    background-color: #00bbf0;
+    font-family: 'Mainfont', sans-serif;
+}
+
+.signup-box{
+    width: 390px;
+    height: 500px;
+    margin: 30px auto;
+    padding-top: 50px;
+    padding-left: 30px;
+    background-color: white;
+    border-radius: 3px;
+}
+.signup-box .reg-form {
+    margin-bottom: 20px
+}
+.Reg-info{
+    height: 41px;
+    border: none;
+    background-color: #f3f3f3
+   
+}
+h1 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+h4 {
+    padding-bottom: 40px;
+    opacity: 0.4;
+}
+
+hr {
+    margin-top: -20px;
+    margin-left: -30px;
+    margin-bottom: 25px;
+    opacity: 0.2
+}
+
+.info-name {
+    padding-bottom: 1px
+}
+
+
+
+.reg-form button {
+    height: 38px;
+    min-width: 140px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: #3598dc;
+    border: none;
+    cursor: pointer;
+}
+
+.tick-sign a {
+    
+    text-decoration: none;
+}
+
+.already-user a {
+    text-decoration: underline;
+}
